@@ -1,12 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">Security Policy</h1>
 
-This repository contains organization-wide GitHub configuration for the
-OctalMesh organization.
-
-It does not contain application code, but it affects security-relevant behavior
-across repositories, including issue templates, workflows, automation, and
-contribution processes.
+This is a default, organization-wide security policy for OctalMesh repositories.
+It applies to repositories that do not provide their own SECURITY.md.
 
 ## Reporting a Vulnerability
 
@@ -21,10 +17,10 @@ Instead, report it privately:
 ### Please include as much of the following information as possible:
 
 - Description of the issue
-- Affected workflow(s), template(s), or configuration
+- Affected component(s) or service(s)
 - Repository and file paths involved
 - Steps or conditions required to reproduce the issue
-- Potential impact on repositories or contributors
+- Potential impact
 - Suggested mitigation, if available
 
 Incomplete reports are still welcome, but detailed reports allow faster and more
@@ -48,10 +44,14 @@ Timelines may vary depending on severity and complexity.
 
 ## Scope
 
-Application-specific vulnerabilities do not belong here and should be reported
-according to the `SECURITY.md` of the affected repository or platform
-(e.g. [OctalWeb](https://github.com/OctalMesh/OctalWeb?tab=security-ov-file)).
+This default policy applies to:
 
+- Source code, workflows, and configurations in repositories without their own
+  security policy
+- Organization-wide templates and shared configuration
+
+Application-specific vulnerabilities should be reported according to the
+SECURITY.md of the affected repository.
 Third-party services and dependencies follow their own security policies.
 
 #
