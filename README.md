@@ -14,6 +14,7 @@ licensing for the organization.
 #
 
 <h6 align="center">
-  OctalMesh GitHub Configuration - keeping organization workflows safe, standardized, and boringly reliable.<br />
+  OctalMesh GitHub Configuration - keeping organization workflows safe,
+  standardized, and boringly reliable.<br />
   Made with ❤️ by the OctalMesh core team.
 </h6>
