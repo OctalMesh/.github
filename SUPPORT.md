@@ -53,7 +53,4 @@ Low-effort, vague, or off-topic issues may be closed without response.
 
 #
 
-<h6 align="center">
-  Clear reports, clear scope, clear expectations.<br />
-  Made with ❤️ by the OctalMesh core team.
-</h6>
+<h6 align="center">Clear reports, clear scope, clear expectations</h6>
