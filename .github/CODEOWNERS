@@ -1,0 +1,16 @@
+# ============================================================================ #
+#                                  Code Owners                                 #
+# ============================================================================ #
+# This repository is maintained by the OctalMesh teams listed below.           #
+# Please direct any issues or pull requests to the appropriate team.           #
+# ============================================================================ #
+
+# GitHub configuration files
+/.github/ @OctalMesh/core
+
+# Policies, contribution, and licensing
+CODE_OF_CONDUCT*.md @OctalMesh/core
+CONTRIBUTING*.md    @OctalMesh/core
+LICENSE*.md         @OctalMesh/core
+SECURITY*.md        @OctalMesh/core
+SUPPORT*.md         @OctalMesh/core
